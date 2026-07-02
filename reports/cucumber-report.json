@@ -1,0 +1,136 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "use-authentication-test-for-tutotialsninja;login-should-be-successful",
+        "keyword": "Scenario",
+        "line": 8,
+        "name": "Login should be successful",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 434413299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "User navigate to the tutorialsninja",
+            "match": {
+              "location": "src\\test\\steps\\logintutorials.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2483681500
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 4,
+            "name": "User click Myaccount link",
+            "match": {
+              "location": "src\\test\\steps\\logintutorials.ts:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 88017799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 5,
+            "name": "User click the login link",
+            "match": {
+              "location": "src\\test\\steps\\logintutorials.ts:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 512708299
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "User enter the email as \"priya1234567@gmail.com\"",
+            "match": {
+              "location": "src\\test\\steps\\logintutorials.ts:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 32803499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "User enter the password1 as \"12345678\"",
+            "match": {
+              "location": "src\\test\\steps\\logintutorials.ts:30"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 13769499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 11,
+            "name": "User click login button",
+            "match": {
+              "location": "src\\test\\steps\\logintutorials.ts:34"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2559650899
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 12,
+            "name": "User should see Myaccount",
+            "match": {
+              "location": "src\\test\\steps\\logintutorials.ts:38"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 32260299
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 287578899
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 7
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "use-authentication-test-for-tutotialsninja",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Use Authentication test for tutotialsninja",
+    "tags": [],
+    "uri": "src\\test\\features\\logintutorials.feature"
+  }
+]
