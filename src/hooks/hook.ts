@@ -4,10 +4,13 @@ import { chromium,Browser,Page } from "@playwright/test";
 import { CustomWorld } from "./world";
 
 let browser:Browser;
+
 Before(async function(){
+    
     this.browser=await chromium.launch({headless:false});
     this.context=await this.browser.newContext();
     this.page=await this.context.newPage();
+    this.page.setDefaultTimeout(60 * 1000); 
     //pageFixture.page=page;
 });
 After(async function ({pickle,result}) {

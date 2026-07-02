@@ -1,6 +1,7 @@
 import { Given, When, Then } from "@cucumber/cucumber";
 import {expect} from "@playwright/test"
 import { CustomWorld } from "../../hooks/world";
+import { generateEmail } from "../../helper/emailgenerator";
 
 //import { pageFixture } from "../../hooks/pageFixture";
 //import { chromium, Browser, Page, expect } from "@playwright/test";
@@ -47,8 +48,12 @@ When("user enters last name {string}", async function (this:CustomWorld,lname: s
 
 });
 
-When("user enters email {string}", async function (this:CustomWorld,email: string) {
+When("user enters email {string}", async function (this: CustomWorld, email: string) {
 
+    if (email === "random") {
+        email = generateEmail();
+    }
+    console.log(email);
     await this.page.locator("#input-email").fill(email);
 
 });
@@ -94,10 +99,17 @@ Then("user should see Your Account Has Been Created", async function (this:Custo
 });
 
 When("user clicks Continue after registration", async function (this:CustomWorld) {
-
-    await this.page.waitForTimeout(5000);
     await this.page.locator("//a[text()='Continue']").click();
     
 
 });
 
+Then("user should see email already exists message", async function (this: CustomWorld) {
+
+    const warning = this.page.locator(".alert-danger");
+
+    await expect(warning).toContainText(
+        "Warning: E-Mail Address is already registered!"
+    );
+
+});

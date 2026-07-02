@@ -13,7 +13,7 @@ Then User should see Myaccount
 
 @smoke
 Scenario:Login should not be successful
-And User enter the email as "priya1234567@gmail.com"
-And User enter the password1 as "12345678"
+And User enter the email as "priya@gmail.com"
+And User enter the password1 as "123478"
 When User click login button
 Then User should see the unsuccess error message
