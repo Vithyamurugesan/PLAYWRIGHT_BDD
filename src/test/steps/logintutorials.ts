@@ -45,7 +45,7 @@ Then('User should see the unsuccess error message', async function (this:CustomW
 
     const warning = this.page.locator(".alert.alert-danger");
 
-    await expect(warning).toBeVisible();
+    await expect(warning).toBeVisible({timeout:5000});
 
     await expect(warning).toContainText(
         "Warning: No match for E-Mail Address and/or Password."

@@ -78,8 +78,10 @@ When("user selects the privacy policy", async function (this:CustomWorld) {
 });
 
 When("the user clicks Continue button", async function (this:CustomWorld) {
+     
 
     await this.page.locator("input[value='Continue']").click();
+    
 
 });
 
@@ -93,7 +95,9 @@ Then("user should see Your Account Has Been Created", async function (this:Custo
 
 When("user clicks Continue after registration", async function (this:CustomWorld) {
 
+    await this.page.waitForTimeout(5000);
     await this.page.locator("//a[text()='Continue']").click();
+    
 
 });
 
