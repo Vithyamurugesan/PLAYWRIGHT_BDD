@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 381338199
+              "duration": 602064500
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1115163100
+              "duration": 1714972600
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 79540500
+              "duration": 75010099
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 249429700
+              "duration": 290274999
             }
           },
           {
@@ -66,7 +66,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 31253999
+              "duration": 38233299
             }
           },
           {
@@ -79,7 +79,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 11197700
+              "duration": 12156800
             }
           },
           {
@@ -92,7 +92,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 881462099
+              "duration": 1363688900
             }
           },
           {
@@ -105,7 +105,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 31595999
+              "duration": 36858199
             }
           },
           {
@@ -113,7 +113,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 337530499
+              "duration": 497337199
             }
           }
         ],
@@ -137,7 +137,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 370105000
+              "duration": 445778700
             }
           },
           {
@@ -150,7 +150,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1655234499
+              "duration": 1486157199
             }
           },
           {
@@ -163,7 +163,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 91754399
+              "duration": 71898799
             }
           },
           {
@@ -176,7 +176,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 274580399
+              "duration": 541499600
             }
           },
           {
@@ -189,7 +189,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 33762200
+              "duration": 33278500
             }
           },
           {
@@ -202,7 +202,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 13169100
+              "duration": 12997499
             }
           },
           {
@@ -215,7 +215,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 827999400
+              "duration": 735334100
             }
           },
           {
@@ -228,7 +228,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 39813000
+              "duration": 45020800
             }
           },
           {
@@ -236,7 +236,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 352323099
+              "duration": 283804299
             }
           }
         ],
@@ -271,7 +271,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 391965200
+              "duration": 539058100
             }
           },
           {
@@ -284,7 +284,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1675637099
+              "duration": 1518801400
             }
           },
           {
@@ -297,7 +297,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 72097599
+              "duration": 78276599
             }
           },
           {
@@ -310,7 +310,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 282730900
+              "duration": 304167300
             }
           },
           {
@@ -323,7 +323,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 315013199
+              "duration": 344474099
             }
           },
           {
@@ -336,7 +336,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 21723699
+              "duration": 10526499
             }
           },
           {
@@ -349,7 +349,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 10698300
+              "duration": 18998400
             }
           },
           {
@@ -362,7 +362,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 15770699
+              "duration": 19582800
             }
           },
           {
@@ -375,7 +375,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17039600
+              "duration": 16898900
             }
           },
           {
@@ -388,7 +388,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 11016999
+              "duration": 15043400
             }
           },
           {
@@ -401,7 +401,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 50134699
+              "duration": 50393000
             }
           },
           {
@@ -414,7 +414,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1061628699
+              "duration": 1026160499
             }
           },
           {
@@ -427,7 +427,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 27104100
+              "duration": 44468700
             }
           },
           {
@@ -440,7 +440,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 240014300
+              "duration": 276796500
             }
           },
           {
@@ -448,7 +448,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 359295599
+              "duration": 367129100
             }
           }
         ],
@@ -472,7 +472,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 366348900
+              "duration": 551907800
             }
           },
           {
@@ -485,7 +485,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1662351899
+              "duration": 1624456000
             }
           },
           {
@@ -498,7 +498,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 76210199
+              "duration": 78785199
             }
           },
           {
@@ -511,7 +511,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 284881199
+              "duration": 325404600
             }
           },
           {
@@ -524,7 +524,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 329660600
+              "duration": 223570400
             }
           },
           {
@@ -537,7 +537,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 19953400
+              "duration": 17534400
             }
           },
           {
@@ -550,7 +550,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17844800
+              "duration": 17268299
             }
           },
           {
@@ -563,7 +563,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 13353500
+              "duration": 18100299
             }
           },
           {
@@ -576,7 +576,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 18171899
+              "duration": 17724900
             }
           },
           {
@@ -589,7 +589,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 9653899
+              "duration": 8301699
             }
           },
           {
@@ -602,7 +602,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 48680000
+              "duration": 46009799
             }
           },
           {
@@ -615,7 +615,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 785044700
+              "duration": 744522799
             }
           },
           {
@@ -628,7 +628,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 17317599
+              "duration": 33950400
             }
           },
           {
@@ -636,7 +636,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 271447899
+              "duration": 336279299
             }
           }
         ],
@@ -650,5 +650,184 @@
     "name": "Register for TutorialsNinja website",
     "tags": [],
     "uri": "src\\test\\features\\registertutorials.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "search-product-in-tutorialsninja;user-searches-for-a-valid-product",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "User searches for a valid product",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 439534700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "User is on the TutorialsNinja home page",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1758808799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "User enters product name \"MacBook\"",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 62074499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "User clicks the search button",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 359183000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "User should see the searched product",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 49060199
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 346500100
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 6
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "search-product-in-tutorialsninja;user-searches-for-an-invalid-product",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "User searches for an invalid product",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 395297700
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "User is on the TutorialsNinja home page",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:5"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2507266600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 16,
+            "name": "User enters product name \"Samsung TV\"",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 72648600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "User clicks the search button",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:17"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 308390099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "User should see no product message",
+            "match": {
+              "location": "src\\test\\steps\\searchtutorials.ts:31"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 15577700
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 369194600
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@regression",
+            "line": 13
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "search-product-in-tutorialsninja",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Search Product in TutorialsNinja",
+    "tags": [],
+    "uri": "src\\test\\features\\searchtutorials.feature"
   }
 ]
